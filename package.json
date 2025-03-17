@@ -1,0 +1,9 @@
+{
+  "name": "airtable-mcp",
+  "version": "1.0.0",
+  "description": "Airtable MCP server configuration",
+  "dependencies": {
+    "airtable-mcp-server": "^1.3.0",
+    "@felores/airtable-mcp-server": "latest"
+  }
+}
